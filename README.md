@@ -9,11 +9,11 @@ The following is what we can learn from this project:
 4. Design the easy way to demonstrate the prediciton.
 
 Program Instruction:  
-Open the notebook with the jupyter notebook.
-Follow the instrcutionS step by step.
+Open the notebook with the jupyter notebook.  
+Follow the instrcutions step by step.
 
 The training result:
-1. The scratch model of dog breed classifier: Only 15% accuraccy
+1. The scratch model of dog breed classifier: Only 16% accuraccy
 2. The tranfer learning model of the VGG16 for dog breed classifier:
    78% accuraccy
 
