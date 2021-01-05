@@ -8,7 +8,7 @@ The following is what we can learn from this project:
 3. Use the tranfer learning technique to decrease the training time.
 4. Design the easy way to demonstrate the prediciton.
 
-Program Instruction:
+Program Instruction: 
 Open the notebook with the jupyter notebook.
 Follow the instrcutionS step by step.
 
