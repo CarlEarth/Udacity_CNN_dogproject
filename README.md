@@ -1,6 +1,6 @@
 # Udacity_CNN_dogproject
 
-This is the assignment in Udacity Deep Learning Course.
+This is the assignment in Udacity Deep Learning Course.  
 The following is what we can learn from this project:
 
 1. Preprocess the data before training
